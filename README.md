@@ -6,9 +6,11 @@
 <h3 align="center">Computer Science Student from Morocco</h3>
 
 
-
-
 <h3> 👨: &nbsp;About Me </h3>
+
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif">
+
+
 
 - 🔭 I’m currently a Data Science and IOT  Student at Ensias
 - :heart: I'm interested in ML/DL/NLP/Data Engineer/Data Science
