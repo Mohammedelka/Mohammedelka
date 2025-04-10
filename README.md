@@ -12,13 +12,12 @@
 
 
 
-- 🔭 I’m currently a Data Science and IOT  Student at Ensias
+- 🔭 I’m currently a Data Science Engineer 
 - :heart: I'm interested in ML/DL/NLP/Data Engineer/Data Science
-- :heart: My favorite language: Python
 - 🌱 I’m currently learning and improving myself
 - 👯 I’m always looking to collaborate with: scientist from any field
 - 💬 Ask me about: anything, I am happy to help
-- 🌍 I like research field and innovate and I'd like to Continue my phd.
+- 🌍 I like research field and innovation.
 - 💜 Interests: Reading, travel, sport, Maths
 
 <br/>
