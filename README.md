@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 <h1 align="center">I'm Mohammed Elkasri</h1>
-<h3 align="center">Computer Science Student from Morocco</h3>
+<h3 align="center">Moroccan Data Scientist</h3>
 
 
 <h3> 👨: &nbsp;About Me </h3>
