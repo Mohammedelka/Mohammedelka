@@ -1,7 +1,7 @@
 
 
-### Hi there / Salam Alaykom 👋
-![MasterHead](https://camo.githubusercontent.com/tbn:ANd9GcTSQP_x9y2Q5RV0XbojJp7oowNIqaapAjT40A&s)
+### Hi there 👋
+```![MasterHead](https://camo.githubusercontent.com/tbn:ANd9GcTSQP_x9y2Q5RV0XbojJp7oowNIqaapAjT40A&s)```
 <h1 align="center">I'm Mohammed Elkasri</h1>
 <h3 align="center">Computer Science Student from Morocco</h3>
 
